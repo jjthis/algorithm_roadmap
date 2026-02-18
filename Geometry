@@ -1,0 +1,211 @@
+CCW (Counter Clockwise)
+Dot Product
+Cross Product
+Line Intersection
+Segment Intersection
+Point on Segment
+Distance Point–Line
+Distance Point–Segment
+Distance Segment–Segment
+Polygon Area (Shoelace)
+Convex Hull (Graham Scan)
+Convex Hull (Monotone Chain)
+Rotating Calipers
+Diameter of Convex Hull
+Minimum Bounding Rectangle
+Closest Pair of Points
+Half-plane Intersection
+Line Sweep
+Plane Sweep
+Segment Tree on Sweep Line
+Polygon Triangulation
+Ear Clipping
+Point in Polygon (Ray Casting)
+Point in Polygon (Winding Number)
+Minkowski Sum
+Convex Polygon Intersection
+Polygon Boolean Operations
+Voronoi Diagram
+Delaunay Triangulation
+KD-tree
+Range Tree
+Circle–Line Intersection
+Circle–Circle Intersection
+Tangent Lines to Circle
+Common Tangents of Two Circles
+Minimum Enclosing Circle
+Apollonian Circle
+Fermat Point
+Barycentric Coordinates
+Homogeneous Coordinate
+Affine Transformation
+Rotation / Reflection / Translation
+Projective Transformation
+Pick’s Theorem
+Lattice Points on Segment
+Lattice Polygon Area
+3D CCW (Orientation Test)
+3D Convex Hull
+Line–Plane Intersection
+Plane–Plane Intersection
+Point–Plane Distance
+Segment–Triangle Intersection
+Ray Tracing Intersection
+Bounding Volume Hierarchy
+Spatial Hashing
+Dual of Planar Graph
+
+Angular Sweep
+Duality Transform
+Arrangement of Lines
+Arrangement of Segments
+Zone Theorem Traversal
+Visibility Polygon
+Art Gallery Problem Algorithm
+Ham Sandwich Cut
+Centerpoint Theorem Algorithm
+Geometric Median (Weiszfeld)
+Smallest k-Enclosing Disk
+Minimum Width of Convex Polygon
+Maximum Empty Circle
+Largest Empty Rectangle
+Orthogonal Range Searching
+Fractional Cascading (Geometry)
+Trapezoidal Map Construction
+Randomized Incremental Planar Subdivision
+Planar Point Location
+Kirkpatrick Point Location
+Dobkin–Lipton Triangulation
+Seidel Polygon Triangulation
+Chazelle Linear-time Triangulation
+Straight Skeleton
+Medial Axis Transform
+Alpha Shapes
+Power Diagram
+Laguerre Voronoi
+Geodesic Shortest Path in Polygon
+Funnel Algorithm
+Continuous Dijkstra
+Shortest Path Map
+Visibility Graph
+Bitangent Graph
+Euclidean Minimum Spanning Tree
+Relative Neighborhood Graph
+Gabriel Graph
+Theta Graph
+Yao Graph
+Well-Separated Pair Decomposition
+Spanner Construction
+Hopcroft–Tarjan Planarity Test
+Planar Separator Theorem Algorithm
+Graph Drawing (Tutte Embedding)
+Force-Directed Layout (Geometric)
+Circle Packing
+Sphere Packing Heuristics
+Polygon Offset / Straight Offset
+Morphological Dilation/Erosion (Geometry)
+Skeleton by Wavefront Propagation
+Discrete Curvature Estimation
+Surface Reconstruction (Poisson)
+Marching Squares
+Marching Cubes
+Dual Contouring
+Ball Pivoting Algorithm
+Iterative Closest Point (ICP)
+Procrustes Alignment
+Hausdorff Distance Computation
+Frechet Distance
+Dynamic Time Warping (Geometric Curves)
+Curve Simplification (Douglas–Peucker)
+Visvalingam–Whyatt Simplification
+Polyline Smoothing
+Bezier Curve Subdivision
+De Casteljau Algorithm
+B-spline Evaluation (De Boor)
+NURBS Evaluation
+Arc Length Parameterization
+Surface Parameterization (LSCM)
+Geodesic Distance on Mesh (Fast Marching)
+Heat Method for Geodesics
+Mesh Decimation (Quadric Error)
+Edge Collapse Simplification
+Loop Subdivision
+Catmull–Clark Subdivision
+Doo–Sabin Subdivision
+Half-edge Mesh Operations
+Winged-edge Structure Algorithms
+Boolean Operations on Meshes
+CSG Tree Evaluation
+Ray–AABB Intersection
+Ray–OBB Intersection
+Ray–Triangle Intersection (Möller–Trumbore)
+Slab Method Intersection
+Frustum Culling
+Back-face Culling
+Z-buffer Visibility
+Painter’s Algorithm
+Scanline Polygon Fill
+Bresenham Line Algorithm
+Midpoint Circle Algorithm
+Guillotine Rectangle Partition
+Maximal Rectangles in Histogram (Geometry Use)
+Rectangle Union Area
+Klee’s Measure Problem
+Orthogonal Segment Intersection
+Bentley–Ottmann Algorithm
+Topological Sweep
+Kinetic Data Structures
+Event-driven Simulation Geometry
+Dynamic Convex Hull
+Fully Persistent Convex Hull
+K-level in Arrangement
+Lower Envelope of Lines
+Upper Envelope of Segments
+Parametric Search in Geometry
+Megiddo Linear Programming in 2D/3D
+LP-type Problems
+Smallest Enclosing Annulus
+Minimum Perimeter Triangle
+Maximum Area Triangle in Polygon
+Largest Inscribed Circle in Polygon
+Largest Rectangle in Convex Polygon
+Polygon Kernel Computation
+Star-shaped Polygon Recognition
+Weak Visibility Polygon
+Link Distance in Polygon
+Rectilinear Shortest Path
+Anisotropic Voronoi
+Geometric Set Cover
+Hitting Set for Segments
+Epsilon-Net Construction
+Range Counting in Geometry
+Approximate Nearest Neighbor (LSH Geometry)
+Cover Trees (Metric Geometry)
+VP-trees
+Ball Trees
+Delaunay Refinement Meshing
+Chew’s Second Algorithm
+Ruppert’s Algorithm
+Advancing Front Mesh Generation
+Constrained Delaunay Triangulation
+Regular Triangulation
+Weighted Alpha Complex
+Surface Nets
+Level Set Extraction
+Signed Distance Field Construction
+Fast Sweeping Method
+Jump Flooding Algorithm
+Medial Geodesic Skeleton
+Shape Context Matching
+Thin-plate Spline Warping
+As-Rigid-As-Possible Deformation
+Mean Value Coordinates
+Harmonic Coordinates
+Green Coordinates
+Cage-based Deformation
+Spectral Mesh Processing
+Laplace–Beltrami Operator Discretization
+Heat Kernel Signature
+Wave Kernel Signature
+Persistent Homology (Computational Topology)
+Mapper Algorithm (Topological Data Analysis)

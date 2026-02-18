@@ -54,7 +54,7 @@ Ray Tracing Intersection
 Bounding Volume Hierarchy
 Spatial Hashing
 Dual of Planar Graph
-Bulldozer Trick
+Rotate Sweep Line (Bulldozer Trick)
 
 Angular Sweep
 Duality Transform
